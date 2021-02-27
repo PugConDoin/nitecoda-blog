@@ -1,4 +1,4 @@
-#Jamstack Blog Project
+# Jamstack Blog Project
 
 ## Technology Stack
 - 11ty - JavaScript based Static Site Generator
