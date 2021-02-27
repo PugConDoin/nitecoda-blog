@@ -1,0 +1,16 @@
+{
+  "name": "nitecoda-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": ["blog", "nitecoda", "javascript", "eleventy", "jamstack"],
+  "author": "Mark Freeman",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
